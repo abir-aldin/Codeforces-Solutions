@@ -1,5 +1,3 @@
-// Problem: 263A - Beautiful Matrix
-// Topic: Implementation
 // Link: https://codeforces.com/problemset/problem/263/A
 
 #include <iostream>
